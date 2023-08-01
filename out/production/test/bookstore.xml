@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bookstore>
+<book id = "b101">
+<price> $5.00 </price>
+<name> Java Tutorial </name>
+</book>
+<book id = "b102">
+<price> $4.75 </price>
+<name> PHP Tutorial </name>
+</book>
+<book id = "b103">
+<price> $3.50 </price>
+<name> Visual Basic Tutorial </name>
+</book>
+<book id = "b404">
+<price> 15.03$ </price>
+<name> It </name>
+</book>
+</bookstore>
