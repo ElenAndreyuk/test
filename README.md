@@ -4,3 +4,4 @@
 Подключите свой проект к этому удалённому репозиторию и отправьте в него код этого проекта. Самостоятельно разрешите конфликты и проблемы, если они возникнут при выполнении данного задания.
 homework 3
 Elena Andreyuk
+Miyazaki wrote the screenplay after he decided the film would be based on the ten-year-old daughter of his friend Seiji Okuda, the film's associate producer, who came to visit his house each summer.
